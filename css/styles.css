@@ -358,7 +358,7 @@ p {
     border-radius: 50%;
 }
 
-.icon-link:hover
+.icon-link:hover,
 .icon-link:focus {
     background-color: #404BBF;
 }
